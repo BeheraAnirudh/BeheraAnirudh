@@ -2,7 +2,7 @@
 - 👀 I’m interested in VLSI domain
 - 🌱 I’m currently learning Physical Design concepts and Scripting languages
 - 💞️ I’m looking to collaborate on LinkedIn or Discord
-- 📫 Portfolio: https://anirudhabehera.site/ | Discord: Anirudha#5632 | LinkedIn: https://www.linkedin.com/in/abehera1/
+- 📫 Portfolio: https://anirudhabehera.site/ | LinkedIn: https://www.linkedin.com/in/abehera1/ | Discord: Anirudha#5632
 - 📫 Email: abehera1@hawk.iit.edu
 
 <!---
