@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BeheraAnirudh
+- 👋 Hi, I’m Anirudha Behera
 - 👀 I’m interested in VLSI domain
 - 🌱 I’m currently learning Physical Design concepts and Scripting languages
 - 💞️ I’m looking to collaborate on Discord or Teligram
