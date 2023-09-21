@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on LinkedIn or Discord
 - 📫 Portfolio: 🔗 https://anirudhabehera.site/ | LinkedIn: 🔗 https://www.linkedin.com/in/abehera1/ | Discord: Anirudha#5632
 - 🤝 Email: abehera1@hawk.iit.edu
+- 📫 Website: 🔗 https://bold.pro/my/anirudha-behera
 
 <!---
 BeheraAnirudh/BeheraAnirudh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
