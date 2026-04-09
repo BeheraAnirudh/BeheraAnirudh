@@ -10,15 +10,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeheraAnirudh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Anirudha's%20GitHub%20Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BeheraAnirudh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=BeheraAnirudh&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeheraAnirudh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeheraAnirudh&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BeheraAnirudh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BeheraAnirudh&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
