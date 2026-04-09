@@ -50,16 +50,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeheraAnirudh&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-### 📈 Language Distribution & Recognition
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeheraAnirudh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=400" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=BeheraAnirudh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="48%" />
-</p>
+### 📈 Language Insights
 
-### 🚀 Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeheraAnirudh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeheraAnirudh&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeheraAnirudh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BeheraAnirudh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ### 🐍 Contribution Activity
