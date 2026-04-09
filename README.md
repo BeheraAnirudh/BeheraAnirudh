@@ -58,7 +58,7 @@
 
 ---
 
-### 🐍 Contribution Snake (Live Animation)
+### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/BeheraAnirudh/BeheraAnirudh/output/github-contribution-grid-snake.svg" />
 </p>
