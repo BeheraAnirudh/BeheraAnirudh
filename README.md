@@ -41,27 +41,38 @@
 | **Mobile/Tools** | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) |
 
 ---
-
 ## 📊 Engineering Analytics
 
 ### 🚀 Production Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeheraAnirudh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeheraAnirudh&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-### 🐍 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeheraAnirudh&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BeheraAnirudh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=BeheraAnirudh&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### ✍️ Random Dev Wisdom
+### 📈 Contribution Activity
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeheraAnirudh&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
+---
+
+### 🐍 Contribution Snake (Live Animation)
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BeheraAnirudh&color=00D1FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/BeheraAnirudh/BeheraAnirudh/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### ✨ Developer Insight
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+</p>
+
+---
+
+### 👀 Profile Visibility
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BeheraAnirudh&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" />
 </p>
