@@ -11,9 +11,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=BeheraAnirudh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BeheraAnirudh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeheraAnirudh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BeheraAnirudh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
